@@ -1,3 +1,7 @@
+# class_materials_slides
+*.pptx
+*.ppt
+*.gslides
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

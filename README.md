@@ -82,7 +82,7 @@ Q&A
 
 - For highlighting keywords, preferably use the whiteboard instead of the editor if it is an in-person class.
 
-
+</details>
 
 
 <table>
@@ -249,4 +249,4 @@ Q&A
    </td>
   </tr>
 </table>
-</details>
+

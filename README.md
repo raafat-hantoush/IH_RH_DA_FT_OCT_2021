@@ -66,9 +66,9 @@ Q&A
 
 **Table of Contents**
 
-&lt;details>
+<details>
 
-&lt;summary> Engagement Strategies &lt;/summary>
+<summary> Engagement Strategies </summary>
 
 - Not necessary to cover all the prework problems; just pick a few where the students faced the most challenges.
 
@@ -82,7 +82,7 @@ Q&A
 
 - For highlighting keywords, preferably use the whiteboard instead of the editor if it is an in-person class.
 
-&lt;/details>
+</details>
 
 
 <table>

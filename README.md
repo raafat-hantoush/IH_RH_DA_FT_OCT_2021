@@ -1,6 +1,4 @@
 
-
-
 **Data Analytics Bootcamp - Berlin**
 
 **Day 1**
@@ -32,33 +30,25 @@
    </td>
    <td>15:30 - 16:00
    </td>
-   <td>16:00 -17:00
-<p>
-Azure
-   </td>
   </tr>
   <tr>
-   <td>Warm up
+   <td>
    </td>
-   <td>Final Project
-<p>
-Q&A
+   <td>
    </td>
-   <td>Lecture
+   <td>
    </td>
-   <td>Break
+   <td>
    </td>
-   <td>Lecture + 10 min Q&A
+   <td>
    </td>
-   <td>Break
+   <td>
    </td>
-   <td>Lecture
+   <td>
    </td>
-   <td>Lunch Break
+   <td>
    </td>
-   <td>Final Project 
-   </td>
-   <td>Elevator Pitches
+   <td>
    </td>
    <td>
    </td>
@@ -68,27 +58,9 @@ Q&A
 
 **Table of Contents**
 
----
-
-:clock10: **BREAK**
-
----
-
 <details>
 
-<summary> Engagement Strategies </summary>
-
-- Not necessary to cover all the prework problems; just pick a few where the students faced the most challenges.
-
-- Ask them to work on the questions again and improve their solutions if they can.
-
-- Encourage them to take help from you (and your TAs if you have any). Students should be 100% confident in the concepts covered in the prework by the end of the first week.
-
-- Make the session more interactive by asking students to share their code and explain the solutions. This way, the teacher gets to know them better and faster.
-
-- Play around with solutions, ask them to develop alternative solutions, change some parts of code, and ask the students if they can develop the logic around what's been changed.
-
-- For highlighting keywords, preferably use the whiteboard instead of the editor if it is an in-person class.
+<summary> Day1 </summary>
 
 </details>
 

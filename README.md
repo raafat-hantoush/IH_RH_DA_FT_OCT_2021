@@ -1,10 +1,17 @@
-.header {
+<html>
+<style>
+h1 {
+   color: red;
+}
+  .header {
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
   font-size: 30px;
 }
+</style>
+
 <div class="header">
   <h1>Header</h1>
   <p>My supercool header</p>
@@ -307,3 +314,4 @@ It is Friday!! 🥳😎✌️
 <summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>
+</html>

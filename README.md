@@ -80,6 +80,10 @@
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
+<p>
+<strong> </strong>
    </td>
   </tr>
   <tr>
@@ -233,13 +237,13 @@
 
 <details>
 
-<summary>📅 Week2 - EDA </summary>
+<summary>📅  Week2 - EDA </summary>
 
 </details>
 
 <details>
 
-<summary> Week 3 Databases, BI</summary>
+<summary>📅  Week 3 Databases, BI</summary>
 
 </details>
 

@@ -1,10 +1,7 @@
+
 <div align="center">
 
-	<br>
-
-		<img src="header.jpg" width="1400" height="225" alt="Click to see the source">
-
-	<br>
+<img src="header.jpg" alt="Data Anatytics" style="height: 225px; width:1400px;"/>
 
 </div>
 

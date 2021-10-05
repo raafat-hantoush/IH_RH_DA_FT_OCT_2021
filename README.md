@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-   <td>9:00 -
+   <td>:clock19: 9:00 -
 <p>
 09:15
    </td>
@@ -233,13 +233,13 @@
 
 <details>
 
-<summary>Week2 </summary>
+<summary>Week2 - EDA </summary>
 
 </details>
 
 <details>
 
-<summary> Week 3 </summary>
+<summary> Week 3 Databases</summary>
 
 </details>
 
@@ -251,19 +251,19 @@
 
 <details>
 
-<summary> Week 5 </summary>
+<summary> Week 5 - Midterm Project</summary>
 
 </details>
 
 <details>
 
-<summary> Week 6 </summary>
+<summary> Week 6 - Web Scraping , Unsupervised Learning </summary>
 
 </details>
 
 <details>
 
-<summary> Week 7 </summary>
+<summary> Week 7 - Machine Learning</summary>
 
 </details>
 

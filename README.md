@@ -1,8 +1,12 @@
 
 <div align="center">
+
 	<br>
+
 		<img src="header.jpg" width="1400" height="225" alt="Click to see the source">
+
 	<br>
+
 </div>
 
 ---
@@ -288,4 +292,3 @@ It is Friday!! 🥳😎✌️
 <summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>
-</html>

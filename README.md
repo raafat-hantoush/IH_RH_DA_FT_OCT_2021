@@ -139,7 +139,7 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Programming_Tips/Readme.md">[Extra] Programming Useful Resources</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Duu10NP6eHDuo23cIYd4jU4MZVDbe0WY/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python, Error Handling</a>
+   <td>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Lists%20Comprehensions/Lab_Python_List_Comprehension.ipynb">[Lab] Lab | Python Lists Comprehension</a>
    </td>
@@ -151,7 +151,7 @@
    </td>
    <td><a href="https://docs.google.com/presentation/d/1ELYBx8TnVT2ISwqiWwbVWbdpxohL6634/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Error_Handling_Structure.ipynb">[Notebook] Python, Error Handling</a>
+   <td>
    </td>
    <td>[Lab] Lab | Prework Review
    </td>
@@ -163,7 +163,7 @@
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Error_Handling/Lab_Python_Error_Handling.ipynb">[Lab] Lab | Python Error Handling</a>
+   <td>
    </td>
    <td>
    </td>
@@ -230,3 +230,51 @@
   </tr>
 </table>
 
+
+<details>
+
+<summary>Week2 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 3 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 4 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 5 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 6 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 7 </summary>
+
+</details>
+
+<details>
+
+<summary> Week 8 Advanced Topics - Final Project  </summary>
+
+</details>
+
+<details>
+
+<summary> Week 9 - Final Project</summary>
+
+</details>

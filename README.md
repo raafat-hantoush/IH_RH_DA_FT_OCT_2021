@@ -1,7 +1,7 @@
 
 **Data Analytics Bootcamp - Berlin**
 
-**---**
+---
 
 **Day 1**
 
@@ -58,15 +58,11 @@
 </table>
 
 
-**---**
+---
 
-**Table of Contents**
+**👉 Table of Contents**
 
-<details>
-
-<summary> Day1 </summary>
-
-</details>
+---
 
 
 <table>
@@ -238,6 +234,8 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
+
+---
 
 <details>
 

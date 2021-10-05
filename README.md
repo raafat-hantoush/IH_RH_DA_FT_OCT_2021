@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-   <td>:clock10:  **9:00** -
+   <td> :clock10: 9:00 -
 <p>
 09:15
    </td>

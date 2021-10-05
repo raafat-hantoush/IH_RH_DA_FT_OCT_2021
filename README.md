@@ -237,13 +237,13 @@ It is Friday!! 🥳😎✌️
 
 <details>
 
-<summary>📅  Week2 - EDA </summary>
+<summary>📅  &nbsp;Week2 - EDA </summary>
 
 </details>
 
 <details>
 
-<summary>📅  Week 3 Databases, BI</summary>
+<summary>📅  &nbsp;Week 3 Databases, BI</summary>
 
 </details>
 

@@ -1,3 +1,14 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+<div class="header">
+  <h1>Header</h1>
+  <p>My supercool header</p>
+</div>
 
 <div class="banner" style="background-color:#ffffff;background-image:url(https://www.litmos.com/wp-content/uploads/2017/04/learning-automation-lms-training.jpg);padding:15px; text-align:center;">
 

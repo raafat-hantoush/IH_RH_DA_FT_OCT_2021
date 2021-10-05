@@ -1,5 +1,7 @@
 
-<div class="banner" style="padding:15px; text-align:center;">
+<div class="banner" style="background-color:#ffffff;
+
+padding:15px; text-align:center;">
 
 <div class="banner-content">
 

@@ -1,9 +1,7 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.jpg" width="1200" height="400" alt="Click to see the source">
-	</a>
+		<img src="header.jpg" width="1400" height="300" alt="Click to see the source">
 	<br>
 </div>
 

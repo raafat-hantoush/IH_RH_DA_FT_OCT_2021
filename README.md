@@ -60,7 +60,7 @@
 
 ---
 
-**👉 Table of Contents**
+**👉 **&nbsp;** Table of Contents**
 
 ---
 

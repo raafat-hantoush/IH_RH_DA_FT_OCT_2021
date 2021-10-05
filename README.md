@@ -1,15 +1,11 @@
 
-<div class="banner" style="background-color:#ffffff;
-
-padding:15px; text-align:center;">
+<div class="banner" style="background-color:#ffffff;background-image:url(https://www.litmos.com/wp-content/uploads/2017/04/learning-automation-lms-training.jpg);padding:15px; text-align:center;">
 
 <div class="banner-content">
 
 <h1>Data Analytics Bootcamp - Berlin
 
 </h1>
-
-<p>Admodum deserunt intellegam in duo, novum nonumy populo est at, qui an reque ignota constituto. Utinam aperiri equidem te vis. Cu ius velit populo impetus. Et qui ullum nusquam contentiones</p>
 
 <a href="https://facebook.com" class="btn btn-primary">CLICK</a>
 

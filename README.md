@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-   <td> :clock10: <p>9:00 -
+   <td>:clock10: 9:00 -
 <p>
 09:15
    </td>
@@ -239,13 +239,13 @@
 
 <details>
 
-<summary> Week 3 Databases</summary>
+<summary> Week 3 Databases, BI</summary>
 
 </details>
 
 <details>
 
-<summary> Week 4 </summary>
+<summary> Week 4 Statistics, Regression</summary>
 
 </details>
 
@@ -257,7 +257,7 @@
 
 <details>
 
-<summary> Week 6 - Web Scraping , Unsupervised Learning </summary>
+<summary> Week 6 - Web Scraping, Unsupervised Learning </summary>
 
 </details>
 
@@ -269,7 +269,7 @@
 
 <details>
 
-<summary> Week 8 Advanced Topics - Final Project  </summary>
+<summary> Week 8 Advanced ML Topics - Final Project  </summary>
 
 </details>
 

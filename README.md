@@ -1,34 +1,10 @@
-<html>
-<style>
-h1 {
-   color: red;
-}
-  .header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
-</style>
 
-<div class="header">
-  <h1>Header</h1>
-  <p>My supercool header</p>
-</div>
-
-<div class="banner" style="background-color:#ffffff;background-image:url(https://www.litmos.com/wp-content/uploads/2017/04/learning-automation-lms-training.jpg);padding:15px; text-align:center;">
-
-<div class="banner-content">
-
-<h1>Data Analytics Bootcamp - Berlin
-
-</h1>
-
-<a href="https://facebook.com" class="btn btn-primary">CLICK</a>
-
-</div>
-
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 </div>
 
 ---

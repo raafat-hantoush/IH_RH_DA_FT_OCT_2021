@@ -233,7 +233,7 @@
 
 <details>
 
-<summary>Week2 - EDA </summary>
+<summary>📅 Week2 - EDA </summary>
 
 </details>
 

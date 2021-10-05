@@ -1,7 +1,19 @@
 
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
 **Data Analytics Bootcamp - Berlin**
 
-**Day 1**
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: Definition &darr;&darr; outside of definition list. Missing preceding term(s)? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+**:clock09: Day 1**
 
 
 <table>
@@ -249,36 +261,36 @@ It is Friday!! 🥳😎✌️
 
 <details>
 
-<summary> Week 4 Statistics, Regression</summary>
+<summary> 📅  &nbsp;Week 4 Statistics, Regression</summary>
 
 </details>
 
 <details>
 
-<summary> Week 5 - Midterm Project</summary>
+<summary> 📅  &nbsp;Week 5 - Midterm Project</summary>
 
 </details>
 
 <details>
 
-<summary> Week 6 - Web Scraping, Unsupervised Learning </summary>
+<summary> 📅  &nbsp;Week 6 - Web Scraping, Unsupervised Learning </summary>
 
 </details>
 
 <details>
 
-<summary> Week 7 - Machine Learning</summary>
+<summary> 📅  &nbsp;Week 7 - Machine Learning</summary>
 
 </details>
 
 <details>
 
-<summary> Week 8 Advanced ML Topics - Final Project  </summary>
+<summary> 📅  &nbsp;Week 8 Advanced ML Topics - Final Project  </summary>
 
 </details>
 
 <details>
 
-<summary> Week 9 - Final Project</summary>
+<summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>

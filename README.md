@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="header.jpg" alt="Data Anatytics" style="height: 225px; width:1300px;"/>
+<img src="header.jpg" alt="Data Anatytics" style="height: 225px; width:1400px;"/>
 
 </div>
 
@@ -134,7 +134,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python</a><span style="text-decoration:underline;"> Built-In Data Structures</span>
+   <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1DUqpLwKqWRwVw7qKQ95ijDy39DPmdfeV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
 <p>

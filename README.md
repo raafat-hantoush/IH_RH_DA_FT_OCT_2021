@@ -74,7 +74,7 @@
 <strong>Week 1 | Day1 `s Key Objectives:</strong>
 <ul>
 
-<li>Housekeeping issues  and Bootcamp Expectation
+<li>Housekeeping Issues  and Bootcamp Expectation
 
 <li>Trello
 

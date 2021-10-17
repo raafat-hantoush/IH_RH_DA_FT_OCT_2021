@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="header.jpg" alt="Data Anatytics" style="height: 225px; width:1400px;"/>
+<img src="header.jpg" alt="Data Anatytics" style="height: 225px; width:1300px;"/>
 
 </div>
 

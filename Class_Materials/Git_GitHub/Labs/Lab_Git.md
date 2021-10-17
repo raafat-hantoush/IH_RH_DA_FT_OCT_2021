@@ -26,7 +26,7 @@ Now let's practice the collaboration part.
 Pair yourself with a classmate. Send the link to your repository on GitHub to your pair. Choose which one of your repositories will be the central repository that you both will collaborate on. That means ONLY your repository (or your pair's repository) will be the central repository for both of you. 
 
 Now each of you should perform the following set of actions: ( Here we assume that YOUR repository is the central repository that you both will collaborate on)
-("You" means the task is for you, "Your pair" means the task is for your pair).
+("You" meansyour task, "Your pair" means your pair's task).
 1. (YOU) Give access to your pair (with read/write permissions) to be able to collaborate on your repository.
 2. (Your Pair) Clone the central repository so you have it locally and you can make changes.
 3. (BOTH) Create a new file with your name (ex. `maya.txt`) and finish the following sentence _I enrolled Ironhack's Data Analytics bootcamp because..._. When you are done, save the changes.

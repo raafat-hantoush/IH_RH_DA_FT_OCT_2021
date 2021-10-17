@@ -9,54 +9,52 @@
 
 **Day 1**
 
+⏰  
+
 
 <table>
   <tr>
-   <td>:clock10: 9:00 -
+   <td>9:50 -
 <p>
-09:15
+11:15
    </td>
-   <td>09:15 - 09:50
+   <td>11:15 - 11:25
    </td>
-   <td>09:50 -
+   <td>11:25 -
 <p>
-10:15
+11:45
    </td>
-   <td>10:15 - 10:25
+   <td>11:45 - 12:15
    </td>
-   <td>10:25 - 11:50
+   <td>12:15 - 12:20
    </td>
-   <td>11:50 - 12:00
+   <td>12:20 - 13:10
    </td>
-   <td>12:00 - 12:25
+   <td>13:10 - 14:10
    </td>
-   <td>13:00 - 14:15
+   <td>14:10 - 14:45
    </td>
-   <td>14:15 - 18:00
-   </td>
-   <td>15:30 - 16:00
+   <td>14:45 - 18:00
    </td>
   </tr>
   <tr>
-   <td>
+   <td>Intro
    </td>
-   <td>
+   <td>Break
    </td>
-   <td>
+   <td>Trello
    </td>
-   <td>
+   <td>CMD
    </td>
-   <td>
+   <td>Break
    </td>
-   <td>
+   <td>Git
    </td>
-   <td>
+   <td>Lunch Break
    </td>
-   <td>
+   <td>Jupyter Notebook
    </td>
-   <td>
-   </td>
-   <td>
+   <td>Lab
    </td>
   </tr>
 </table>
@@ -72,6 +70,21 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 1</strong>
+<p>
+<strong>Week 1 | Day1 `s Key Objectives:</strong>
+<ul>
+
+<li>Housekeeping issues  and Bootcamp Expectation
+
+<li>Trello
+
+<li>Command Line
+
+<li>Git & GitHub
+
+<li>Jupyter Notebooks and Markdown
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -91,143 +104,97 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/MAC%20Command%20Line%20CheatSheet.pdf">[Cheat Sheet] Mac Command</a>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/Windows%20Command%20Prompt%20Cheatsheet.pdf">[Cheat Sheet] Windows Command Line</a>
+   <td><a href="https://docs.google.com/presentation/d/1kedwx1w3LvYm5sBRXzpCJR14fs9hhE9UzfQOAJc5POE/edit?usp=sharing">[Presentation] Intro</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1egDiBylb77aqrLthgC3NaJ1YiJ6BZw1W/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
+   <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17QFXLTEBHB1B3ytR-fjgEeF-W75tr9a2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1i0KOQG3RlQze9e7WUY_1rrc_mpsbyech/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Data Analysis</a>
+   <td>[Notebook] Lambda Function
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1KQ7A-3THjig6wYmzy7JYfli3fnbB80nY/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map, Filter, Reduce</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/Activities/command_line_exercise.md">[Activity] Command Line</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/%5BCheat%20Sheet%5D%20Conda_Cheatsheet.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/Activities/Conda_Activity_environments.md">[Activity] Conda Environment</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17r2eSMW6qddFppf-GjuG-X4ldtZMs1gO/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map, Filter, Reduce</a>
+   <td><a href="https://docs.google.com/presentation/d/1kXw7mTOx232pkNJ0yXUCymgI9wLpXR5b/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1emti-9IkUK-fZUG3GoMyJ4mMXoMJG5zc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git Concepts</a>
+   <td><a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Object Types</a>
+   <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python</a><span style="text-decoration:underline;"> Built-In Data Structures</span>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1DUqpLwKqWRwVw7qKQ95ijDy39DPmdfeV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Numpy Arrays</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
+   </td>
+   <td>Weekly Recap
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Object_Types.ipynb">[Notebook] Python Built-In Data Structures</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1NWZOIxhpjZS-VfBY2dPzo3JTr8izgQpR/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Analysis_Intro/Readme.md">[Extra] Data Analysis</a>
+   <td>[Lab] Data Gathering
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Labs/100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1DUqpLwKqWRwVw7qKQ95ijDy39DPmdfeV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://docs.google.com/presentation/d/12sATaHIireWiTPSmB46nHkrmyTbp7tOx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git Commands</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Object_Types.ipynb">[Notebook] Python Object Types</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1sC-IOCVcIfMnFAbyPzHwjy_VDivEOuC2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Practices</a>
-   </td>
-   <td>[Activity] Data Analysis
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+   <td>Weekly Retro
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/%5BCheat%20Sheet%5D%20Git_Cheat_Sheet_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/Activities/Conda_Activity_environments.md">[Activity] Conda Environment</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Programming_Tips/Readme.md">[Extra] Programming Useful Resources</a>
-   </td>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Lists%20Comprehensions/Lab_Python_List_Comprehension.ipynb">[Lab] Lab | Python Lists Comprehension</a>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Git_GitHub/Readme.md">[Extra] Git Extra Resources</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Lab | Python Sets, Tuples, Dicts</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1ELYBx8TnVT2ISwqiWwbVWbdpxohL6634/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+   </td>
+   <td>[Lab] Pre-Work Review
    </td>
    <td>
    </td>
-   <td>[Lab] Lab | Prework Review
+   <td>[Lab] Pandas Exercises
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1QxThJeuCdR8fd34tQ3JHCpWb2pOOsfrm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Git_GitHub/Labs">[LAB] Git</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/markdown-cheat-sheet.md">[Cheat sheet] Markdown Cheat Sheet</a>
-   </td>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Lab | Python Strings</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Git_GitHub/Labs">[LAB] Lab | Git</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Jupyter_Notebook/Labs/lab_Juypter_Notebook.md">[LAB] Lab | Jupyter Notebook</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Command_Line/Labs/Lab-Bash.md">[LAB] (Optional) Lab | Bash</a>
-   </td>
-   <td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td>
    </td>

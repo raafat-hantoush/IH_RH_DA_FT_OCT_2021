@@ -69,7 +69,7 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 1</strong>
+   <td colspan="5" >📅<strong>Week 1</strong>
 <p>
 <strong>Week 1 | Day1 `s Key Objectives:</strong>
 <ul>

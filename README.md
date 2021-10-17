@@ -170,7 +170,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
    </td>

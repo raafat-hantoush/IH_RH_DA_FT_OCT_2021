@@ -118,7 +118,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Conda/Activities/Conda_Activity_environments.md">[Activity] Conda Environment</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
 <p>
 <br>
 <p>
@@ -138,7 +138,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1TlfVND7l8lLvJeW1TubloDG9P_Z0t5T0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
+   <td><a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1DUqpLwKqWRwVw7qKQ95ijDy39DPmdfeV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
 <p>
@@ -164,7 +164,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Object_Types.ipynb">[Notebook] Python Built-In Data Structures</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1NWZOIxhpjZS-VfBY2dPzo3JTr8izgQpR/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
    </td>
@@ -192,11 +192,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1ELYBx8TnVT2ISwqiWwbVWbdpxohL6634/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+   <td><a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
    </td>
    <td>[Lab] Pre-Work Review
    </td>
@@ -216,11 +216,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td>
    </td>

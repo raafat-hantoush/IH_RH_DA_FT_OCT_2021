@@ -5,6 +5,7 @@
   + Scipy
   + Numpy
   + Scikit-Learn
+  + statsmodels
   + Pandas
   + Matplotlib
   + Seaborn

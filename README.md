@@ -7,52 +7,57 @@
 
 ---
 
-**Day 1**
+**Day 2**
+
 
 ⏰  
 
 
 <table>
   <tr>
-   <td>9:50 -
+   <td>9:00 -
 <p>
-11:15
+09:20
    </td>
-   <td>11:15 - 11:25
+   <td>09:20:10:00
    </td>
-   <td>11:25 -
+   <td>10:00 -
 <p>
-11:45
+10:05
    </td>
-   <td>11:45 - 12:15
+   <td>10:05 - 10:50
    </td>
-   <td>12:15 - 12:20
+   <td>10:50 - 11:40
    </td>
-   <td>12:20 - 13:10
+   <td>11:40 - 11:55
    </td>
-   <td>13:10 - 14:10
+   <td>11:55 - 12:15
    </td>
-   <td>14:10 - 14:45
+   <td>12:15 - 12:55
    </td>
-   <td>14:45 - 18:00
+   <td>12:55: - 14:10
+   </td>
+   <td>14:10 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Intro
+   <td>Warm Up
+   </td>
+   <td>Review
    </td>
    <td>Break
    </td>
-   <td>Trello
+   <td>Conda
    </td>
-   <td>CMD
+   <td>Python Data Structures
    </td>
    <td>Break
    </td>
-   <td>Git
+   <td>Python Data Structures contd
    </td>
-   <td>Lunch Break
+   <td>Python String Operations
    </td>
-   <td>Jupyter Notebook
+   <td>Launch break
    </td>
    <td>Lab
    </td>
@@ -71,10 +76,20 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day2 `s Key Objectives:</strong>
+<ul>
+
+<li>Conda: Package and Environment Manager
+
+<li>Python Data Structures: Lists, Tuples, dictionaries, Sets
+
+<li>Python String Operations 
+
+<p>
 <strong>Week 1 | Day1 `s Key Objectives:</strong>
 <ul>
 
-<li>Housekeeping Issues  and Bootcamp Expectation
+<li>Housekeeping Issues and Bootcamp Expectation
 
 <li>Trello
 
@@ -83,6 +98,8 @@
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
 </li>
 </ul>
    </td>

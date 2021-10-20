@@ -7,7 +7,7 @@
 
 ---
 
-**Day 2**
+**Day 3**
 
 
 ⏰  
@@ -17,9 +17,9 @@
   <tr>
    <td>9:00 -
 <p>
-09:20
+09:30
    </td>
-   <td>09:20:10:00
+   <td>09:30:10:30
    </td>
    <td>10:00 -
 <p>
@@ -33,29 +33,25 @@
    </td>
    <td>11:55 - 12:15
    </td>
-   <td>12:15 - 12:55
-   </td>
    <td>12:55: - 14:10
    </td>
    <td>14:10 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm Up
+   <td>Career Hack
    </td>
    <td>Review
    </td>
    <td>Break
    </td>
-   <td>Conda
+   <td>Python functions
    </td>
-   <td>Python Data Structures
+   <td>Python List Comprehensions
    </td>
    <td>Break
    </td>
-   <td>Python Data Structures contd
-   </td>
-   <td>Python String Operations
+   <td>Programming Tips
    </td>
    <td>Launch break
    </td>
@@ -75,6 +71,16 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
+<p>
+<strong>Week 1 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Python functions
+
+<li>Python List comprehension
+
+<li>Programming Tips and coding efficiency.
+
 <p>
 <strong>Week 1 | Day2 `s Key Objectives:</strong>
 <ul>
@@ -102,6 +108,8 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -125,7 +133,7 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/17QFXLTEBHB1B3ytR-fjgEeF-W75tr9a2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
+   <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
    </td>
    <td>[Notebook] Lambda Function
    </td>
@@ -141,7 +149,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17r2eSMW6qddFppf-GjuG-X4ldtZMs1gO/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
    </td>
@@ -157,11 +165,11 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1DUqpLwKqWRwVw7qKQ95ijDy39DPmdfeV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
+   <td><a href="https://docs.google.com/presentation/d/1BlFRUmZu_bJffAmCBCzUYYaVPuFBLHw4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
@@ -183,7 +191,11 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1NWZOIxhpjZS-VfBY2dPzo3JTr8izgQpR/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
+   <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1C3TlWUS5hunm5tvZmPq3YhXmK8DkNk-p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Code Simplicity</a>
    </td>
    <td>[Lab] Data Gathering
 <p>
@@ -215,7 +227,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
    </td>
-   <td>[Lab] Pre-Work Review
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
    </td>
    <td>
    </td>

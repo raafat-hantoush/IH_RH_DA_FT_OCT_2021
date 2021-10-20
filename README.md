@@ -130,18 +130,54 @@ It is Friday!! 🥳😎✌️
   </tr>
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1kedwx1w3LvYm5sBRXzpCJR14fs9hhE9UzfQOAJc5POE/edit?usp=sharing">[Presentation] Intro</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
+<p>
+<a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Git_GitHub/Labs">[LAB] Git</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
    </td>
-   <td>[Notebook] Lambda Function
+   <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1C3TlWUS5hunm5tvZmPq3YhXmK8DkNk-p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Code Simplicity</a>
+<p>
+[Notebook] Lambda Function
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map</a>
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
+   <td>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
 <p>
@@ -161,7 +197,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
+   <td>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
    </td>
@@ -187,15 +223,11 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
+   <td>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1C3TlWUS5hunm5tvZmPq3YhXmK8DkNk-p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Code Simplicity</a>
+   <td>
    </td>
    <td>[Lab] Data Gathering
 <p>
@@ -207,19 +239,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
+   <td>
    </td>
    <td><a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
 <p>
@@ -235,15 +255,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Git_GitHub/Labs">[LAB] Git</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
+   <td>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
 <p>

@@ -9,6 +9,7 @@
   + Pandas
   + Matplotlib
   + Seaborn
+  + jupyter notebook
   + Plotly
 
 - Check if the packages are installed correctly in the newly created environment and NOT in the root base environment.

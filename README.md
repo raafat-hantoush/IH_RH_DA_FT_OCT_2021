@@ -7,7 +7,7 @@
 
 ---
 
-**Day 3**
+**Day 4**
 
 
 ⏰  
@@ -17,43 +17,43 @@
   <tr>
    <td>9:00 -
 <p>
-09:30
+09:20
    </td>
-   <td>09:30:10:20
+   <td>09:20:10:10
    </td>
-   <td>10:20 -
+   <td>10:10 -
 <p>
-10:35
+10:20
    </td>
-   <td>10:35 - 11:15
+   <td>10:20 - 10:40
    </td>
-   <td>11:15 - 12:00
+   <td>10:40 - 11:40
    </td>
-   <td>12:00 - 12:10
+   <td>11:40 - 11:50
    </td>
-   <td>12:10 - 12:55
+   <td>11:50 - 12:55
    </td>
-   <td>12:55: - 14:10
+   <td>12:55: - 14:00
    </td>
-   <td>14:10 - 18:00
+   <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Career Hack
+   <td>Warm up
    </td>
    <td>Review
    </td>
    <td>Break
    </td>
-   <td>Python functions
+   <td>Lambda Functions
    </td>
-   <td>Python List Comprehensions
+   <td>Data Analysis
    </td>
    <td>Break
    </td>
-   <td>Programming Tips
+   <td>Numpy
    </td>
-   <td>Launch break
+   <td>Launch Break
    </td>
    <td>Lab
    </td>
@@ -71,6 +71,26 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
+<p>
+<strong>Week 1 | Day4 `s Key Objectives:</strong>
+<ul>
+
+<li>Programming Tips and coding efficiency.
+
+<li>Lambda functions.
+
+<li>Data Analysis Intro and Process
+
+<li>Numpy Arrays
+
+<p>
+<strong>Week 1 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Python functions
+
+<li>Python List comprehension
+
 <p>
 <strong>Week 1 | Day3 `s Key Objectives:</strong>
 <ul>
@@ -104,6 +124,10 @@
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -162,8 +186,40 @@ It is Friday!! 🥳😎✌️
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
+<p>
+<a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<p>
+<a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1BlFRUmZu_bJffAmCBCzUYYaVPuFBLHw4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
 <p>
@@ -171,103 +227,41 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1C3TlWUS5hunm5tvZmPq3YhXmK8DkNk-p/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Code Simplicity</a>
 <p>
-[Notebook] Lambda Function
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
+<a href="https://docs.google.com/presentation/d/1EqL2TSH3ux0OsiKLrIYcBfO1qlf0QWHk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Lambda Function</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1EMSWjJHqBVNWkunuFt7yUyJUxKSynVwe/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Intro</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1EZDsd9Kndc_8w7xPaAxbgUY5W_L-oo0d/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Numpy Arrays</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/17r2eSMW6qddFppf-GjuG-X4ldtZMs1gO/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Analysis Process</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1kXw7mTOx232pkNJ0yXUCymgI9wLpXR5b/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1BlFRUmZu_bJffAmCBCzUYYaVPuFBLHw4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1vAzn6vGHKwt_jRIGj6bsP_ZCAIHXZITk/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Numpy Arrays</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
-   </td>
-   <td>Weekly Recap
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
-   </td>
-   <td>
-   </td>
-   <td>[Lab] Data Gathering
+<p>
+[Lab] Data Gathering
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Labs/100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
-   <td>Weekly Retro
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1kXw7mTOx232pkNJ0yXUCymgI9wLpXR5b/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
-   </td>
-   <td>
-   </td>
-   <td>[Lab] Pandas Exercises
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
 <p>
-<br>
+Weekly Recap
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+Weekly Retro
+<p>
+[Lab] Pandas Exercises
    </td>
   </tr>
 </table>

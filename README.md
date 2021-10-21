@@ -7,7 +7,7 @@
 
 ---
 
-**Day 4**
+**Day 5**
 
 
 ⏰  
@@ -17,21 +17,21 @@
   <tr>
    <td>9:00 -
 <p>
-09:20
+09:10
    </td>
-   <td>09:20:10:10
+   <td>09:10:09:30
    </td>
-   <td>10:10 -
+   <td>09:30 -
 <p>
-10:20
+10:15
    </td>
-   <td>10:20 - 10:40
+   <td>10:15 - 10:25
    </td>
-   <td>10:40 - 11:40
+   <td>10:25 - 11:25
    </td>
-   <td>11:40 - 11:50
+   <td>11:25 - 11:30
    </td>
-   <td>11:50 - 12:55
+   <td>11:30 - 12:55
    </td>
    <td>12:55: - 14:00
    </td>
@@ -41,21 +41,21 @@
   <tr>
    <td>Warm up
    </td>
-   <td>Review
+   <td>Map function
+   </td>
+   <td>Pandas Intro
    </td>
    <td>Break
    </td>
-   <td>Lambda Functions
-   </td>
-   <td>Data Analysis
+   <td>Weekly Recap
    </td>
    <td>Break
    </td>
-   <td>Numpy
+   <td>Weekly Retro
    </td>
    <td>Launch Break
    </td>
-   <td>Lab
+   <td>Lab/workshop
    </td>
   </tr>
 </table>
@@ -71,6 +71,16 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
+<p>
+<strong>Week 1 | Day5 `s Key Objectives:</strong>
+<ul>
+
+<li>Map function
+
+<li>Intro to Pandas.
+
+<li>Weekly Recap
+
 <p>
 <strong>Week 1 | Day4 `s Key Objectives:</strong>
 <ul>
@@ -124,6 +134,8 @@
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -247,17 +259,19 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Labs/100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Numpy/Labs/Lab_100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Python_Basics/Code_Along_Map_Filter_Reduce.ipynb">[Notebook] Python Map</a>
+   <td><a href="https://docs.google.com/presentation/d/1HFfUSfhowaFVw277Vnqg4u1XNXEpJVaH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1kXw7mTOx232pkNJ0yXUCymgI9wLpXR5b/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1G5DH7ILkp8fGjQgf094EPAcETbfBOurW/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Pandas</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
 <p>
-Weekly Recap
+<a href="https://docs.google.com/presentation/d/1HFWlAOXd9gRMR7i880iwVQao-OB8N4KF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
 <p>
 Weekly Retro
 <p>

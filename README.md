@@ -275,7 +275,7 @@ It is Friday!! 🥳😎✌️
 <p>
 Weekly Retro
 <p>
-[<a href="https://www.machinelearningplus.com/python/101-pandas-exercises-python/">Lab] Pandas Exercises</a>
+<a href="https://www.machinelearningplus.com/python/101-pandas-exercises-python/">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>

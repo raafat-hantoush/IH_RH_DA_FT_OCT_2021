@@ -269,7 +269,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General.ipynb">[Code Along] Intro to Pandas</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1HFWlAOXd9gRMR7i880iwVQao-OB8N4KF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
 <p>

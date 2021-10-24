@@ -31,7 +31,6 @@ Data cleaning process:
 - Filtering data
 - Removing duplicates
 - Correcting typos
-- Conditional Formatting
 - Replacing null values
 
 - Data Cleaning Examples:

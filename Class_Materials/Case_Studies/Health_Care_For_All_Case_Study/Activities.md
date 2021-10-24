@@ -23,7 +23,7 @@ file3.xlsx
 file4.xlsx
 
 
-Data wrangling/cleaning process:
+Data cleaning process:
 
 - Standardizing header names
 - Deleting and rearranging columns

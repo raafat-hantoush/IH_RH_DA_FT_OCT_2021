@@ -7,7 +7,7 @@
 
 ---
 
-**Day 5**
+**Day 1**
 
 
 ⏰  
@@ -17,21 +17,21 @@
   <tr>
    <td>9:00 -
 <p>
-09:10
+09:20
    </td>
-   <td>09:10:09:30
+   <td>09:20:09:35
    </td>
-   <td>09:30 -
+   <td>09:35 -
 <p>
-10:15
+10:25
    </td>
-   <td>10:15 - 10:25
+   <td>10:25 - 10:40
    </td>
-   <td>10:25 - 11:25
+   <td>10:40 - 11:40
    </td>
-   <td>11:25 - 11:30
+   <td>11:40 - 11:50
    </td>
-   <td>11:30 - 12:55
+   <td>11:50 - 12:55
    </td>
    <td>12:55: - 14:00
    </td>
@@ -41,21 +41,21 @@
   <tr>
    <td>Warm up
    </td>
-   <td>Map function
+   <td>Review
    </td>
-   <td>Pandas Intro
-   </td>
-   <td>Break
-   </td>
-   <td>Weekly Recap
+   <td>Pandas contd
    </td>
    <td>Break
    </td>
-   <td>Weekly Retro
+   <td>Case Study
+   </td>
+   <td>Break
+   </td>
+   <td>Case Study
    </td>
    <td>Launch Break
    </td>
-   <td>Lab/workshop
+   <td>Lab
    </td>
   </tr>
 </table>
@@ -66,6 +66,138 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
+<p>
+<strong>Week 2 | Day1 `s Key Objectives:</strong>
+<ul>
+
+<li>Pandas contd(filtering, missing values, applying functions, concatenating, IO operations)
+
+<li>HealthCare For All Case Study
+
+<li>Data Cleaning using Pandas
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
+<p>
+<strong> </strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-Part_2.ipynb">[Code Along] Pandas_Part_2</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Healthcare For All Case Study</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_1</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lunSe5OvOJmdKxFE2CkpsYnbyxAYpJ6u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Descriptive_Statistics_Structure.ipynb">[Notebook] Basic Statistical Concepts</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PyidEaDkoAQGDRAQ5yEI_XjDtDh3A-g0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_2</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1RP1DE_Tm8rOFKehDX0Zf6PeC0ffm8dLz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn-Stucture.ipynb">[Notebook] EDA with plotting</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Seaborn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_3</a>
+   </td>
+   <td>[Linear Regression Overview]
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Code_Along] Data_Pipelining</a>
+<p>
+<br>
+<p>
+[Case Study Presentations]
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_4</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1IRgPY8aaoev3PTvEtoQ7q2yRx4zGzssv/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
+<p>
+<br>
+<p>
+Weekly Recap
+<p>
+<br>
+<p>
+Weekly Retro
+<p>
+<br>
+<p>
+<a href="https://kahoot.it/">Kahoot</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Pandas_Group_By">[Lab Pandas Group By]</a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<details>
+
+<summary>📅  &nbsp;Week1 - Python Fundamentals </summary>
 
 
 <table>
@@ -281,13 +413,9 @@ Weekly Retro
 </table>
 
 
----
-
-<details>
-
-<summary>📅  &nbsp;Week2 - EDA </summary>
-
 </details>
+
+---
 
 <details>
 

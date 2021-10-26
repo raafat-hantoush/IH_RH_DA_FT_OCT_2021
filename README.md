@@ -7,7 +7,7 @@
 
 ---
 
-**Day 2**
+**Day 3**
 
 
 ⏰  
@@ -17,17 +17,17 @@
   <tr>
    <td>9:00 -
 <p>
-10:10
+09:20
    </td>
-   <td>10:00: 10:10
+   <td>09:20: 09:40
    </td>
-   <td>10:10 -
+   <td>09:40 -
 <p>
-11:15
+10:15
    </td>
-   <td>11:15 - 11:20
+   <td>10:15 - 10:25
    </td>
-   <td>11:20- 12:55
+   <td>10:25- 12:55
    </td>
    <td>12:55: - 14:00
    </td>
@@ -35,15 +35,15 @@
    </td>
   </tr>
   <tr>
-   <td>Team Building Workshop
+   <td>Warm up
+   </td>
+   <td>Q&A
+   </td>
+   <td>Correlation
    </td>
    <td>Break
    </td>
-   <td>Q&A and HK case study contd
-   </td>
-   <td>Break
-   </td>
-   <td>Statistics Basics
+   <td>Plotting
    </td>
    <td>Launch Break
    </td>
@@ -64,6 +64,16 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
 <p>
+<strong>Week 2 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Correlation and correlation Matrix
+
+<li>Plotting using Matplotlib and seaborn
+
+<li>Exploratory Data Analysis
+
+<p>
 <strong>Week 2 | Day2 `s Key Objectives:</strong>
 <ul>
 
@@ -82,6 +92,8 @@
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -123,29 +135,29 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1RP1DE_Tm8rOFKehDX0Zf6PeC0ffm8dLz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
+   <td><a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn-Stucture.ipynb">[Notebook] EDA with plotting</a>
+<a href="https://docs.google.com/presentation/d/1SpJogytP9jYR7WMnkawTKJ8mzgZ9WUt-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Seaborn</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_3</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
    </td>
    <td>[Linear Regression Overview]
 <p>
@@ -159,7 +171,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_4</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1IRgPY8aaoev3PTvEtoQ7q2yRx4zGzssv/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
 <p>

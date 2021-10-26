@@ -7,7 +7,7 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 
 ⏰  
@@ -17,21 +17,17 @@
   <tr>
    <td>9:00 -
 <p>
-09:20
+10:10
    </td>
-   <td>09:20:09:35
+   <td>10:00: 10:10
    </td>
-   <td>09:35 -
+   <td>10:10 -
 <p>
-10:25
+11:15
    </td>
-   <td>10:25 - 10:40
+   <td>11:15 - 11:20
    </td>
-   <td>10:40 - 11:40
-   </td>
-   <td>11:40 - 11:50
-   </td>
-   <td>11:50 - 12:55
+   <td>11:20- 12:55
    </td>
    <td>12:55: - 14:00
    </td>
@@ -39,19 +35,15 @@
    </td>
   </tr>
   <tr>
-   <td>Warm up
-   </td>
-   <td>Review
-   </td>
-   <td>Pandas contd
+   <td>Team Building Workshop
    </td>
    <td>Break
    </td>
-   <td>Case Study
+   <td>Q&A and HK case study contd
    </td>
    <td>Break
    </td>
-   <td>Case Study
+   <td>Statistics Basics
    </td>
    <td>Launch Break
    </td>
@@ -72,6 +64,16 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
 <p>
+<strong>Week 2 | Day2 `s Key Objectives:</strong>
+<ul>
+
+<li>HealthCare For All Case Study
+
+<li>Data Cleaning using Pandas
+
+<li>Statistics basics ( samples, probability, distributions, random variables, samples, measures of central tendency and dispersion)
+
+<p>
 <strong>Week 2 | Day1 `s Key Objectives:</strong>
 <ul>
 
@@ -80,6 +82,8 @@
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -115,19 +119,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_1</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1lunSe5OvOJmdKxFE2CkpsYnbyxAYpJ6u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
+   <td><a href="https://docs.google.com/presentation/d/1Q8l1rqSfRiLbffkl4aChCRNYYFdCY69S/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Descriptive_Statistics_Structure.ipynb">[Notebook] Basic Statistical Concepts</a>
+<a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1PyidEaDkoAQGDRAQ5yEI_XjDtDh3A-g0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[Lab] EDA_Round_2</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1RP1DE_Tm8rOFKehDX0Zf6PeC0ffm8dLz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] EDA with plotting</a>
 <p>

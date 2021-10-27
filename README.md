@@ -7,7 +7,7 @@
 
 ---
 
-**Day 3**
+**Day 4**
 
 
 ⏰  
@@ -19,35 +19,39 @@
 <p>
 09:20
    </td>
-   <td>09:20: 09:40
-   </td>
-   <td>09:40 -
+   <td>09:20:
 <p>
-10:15
+09:35
    </td>
-   <td>10:15 - 10:25
+   <td>09:35 - 10:10
    </td>
-   <td>10:25- 12:55
+   <td>10:10 - 10:20
    </td>
-   <td>12:55: - 14:00
+   <td>10:20- 11:30
+   </td>
+   <td>11:30 - 11:45
+   </td>
+   <td>11:45 - 13:00
    </td>
    <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm up
+   <td>Warm up/ Coffee
    </td>
    <td>Q&A
    </td>
-   <td>Correlation
+   <td>Data pipelining
    </td>
    <td>Break
    </td>
-   <td>Plotting
+   <td>Linear regression
    </td>
-   <td>Launch Break
+   <td>Break
    </td>
    <td>Lab
+   </td>
+   <td>Lab / Presentations
    </td>
   </tr>
 </table>
@@ -63,6 +67,14 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
+<p>
+<strong>Week 2 | Day4 `s Key Objectives:</strong>
+<ul>
+
+<li>Data Pipelining
+
+<li>Linear Regression
+
 <p>
 <strong>Week 2 | Day3 `s Key Objectives:</strong>
 <ul>
@@ -92,6 +104,8 @@
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -163,7 +177,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>

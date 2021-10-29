@@ -59,6 +59,10 @@
 
 ---
 
+<details>
+
+<summary>📅  &nbsp;Week2 - Exploratory Data Analysis </summary>
+
 
 <table>
   <tr>
@@ -201,7 +205,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="http://localhost:8888/notebooks/Documents/GitHub/IronHack/IH_RH_DA_FT_OCT_2021/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
 <p>
 <a href="http://localhost:8888/notebooks/Documents/GitHub/IronHack/IH_RH_DA_FT_OCT_2021/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb"><br></a>
 <p>
@@ -234,6 +238,8 @@ Weekly Retro
   </tr>
 </table>
 
+
+</details>
 
 <details>
 

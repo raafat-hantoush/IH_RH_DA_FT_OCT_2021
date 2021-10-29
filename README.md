@@ -7,51 +7,47 @@
 
 ---
 
-**Day 4**
+**Day 5**
 
 
-⏰  
+      ⏰  
 
 
 <table>
   <tr>
    <td>9:00 -
 <p>
-09:20
+09:25
    </td>
-   <td>09:20:
+   <td>09:25:
 <p>
-09:35
+10:15
    </td>
-   <td>09:35 - 10:10
+   <td>10:15 - 10:25
    </td>
-   <td>10:10 - 10:20
+   <td>10:25- 11:30
    </td>
-   <td>10:20- 11:30
+   <td>11:30 - 11:40
    </td>
-   <td>11:30 - 11:45
-   </td>
-   <td>11:45 - 13:00
+   <td>11:40 - 13:00
    </td>
    <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm up/ Coffee
+   <td>Warm up/ Kahoot*
    </td>
-   <td>Q&A
-   </td>
-   <td>Data pipelining
+   <td>Pandas
    </td>
    <td>Break
    </td>
-   <td>Linear regression
+   <td>Weekly Recap
    </td>
    <td>Break
+   </td>
+   <td>Weekly Retro
    </td>
    <td>Lab
-   </td>
-   <td>Lab / Presentations
    </td>
   </tr>
 </table>
@@ -67,6 +63,18 @@
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 2</strong></h2>
+<p>
+<strong>Week 2 | Day5 `s Key Objectives:</strong>
+<ul>
+
+<li>Weekly Recap
+
+<li>Pandas Group By
+
+<li>Pandas Merging
+
+<li>Pandas Best Practices
+
 <p>
 <strong>Week 2 | Day4 `s Key Objectives:</strong>
 <ul>
@@ -104,6 +112,8 @@
 <li>HealthCare For All Case Study
 
 <li>Data Cleaning using Pandas
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -187,11 +197,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1IRgPY8aaoev3PTvEtoQ7q2yRx4zGzssv/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
+   <td><a href="https://docs.google.com/presentation/d/1G3gbFpluZn4FDm8Y-Rq_WRXA609R3UNK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
 <p>
 <br>
 <p>
-Weekly Recap
+<a href="http://localhost:8888/notebooks/Documents/GitHub/IronHack/IH_RH_DA_FT_OCT_2021/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
+<p>
+<a href="http://localhost:8888/notebooks/Documents/GitHub/IronHack/IH_RH_DA_FT_OCT_2021/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb"><br></a>
+<p>
+<a href="https://docs.google.com/presentation/d/1ULcqE5MmHnSrO3HHQ_tdNUA354Jk1n9F/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
 <p>
 <br>
 <p>
@@ -203,7 +217,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/tree/main/Class%20Materials/Pandas/Labs/Pandas_Group_By">[Lab Pandas Group By]</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Pandas/Labs/Pandas_Group_By/Readme.md">[Lab Pandas Group By]</a>
    </td>
   </tr>
   <tr>

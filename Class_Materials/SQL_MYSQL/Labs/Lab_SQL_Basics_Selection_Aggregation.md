@@ -207,7 +207,7 @@ classic	659
 junior	145
 gold	88
 ```
-
+# Optional
 ### Query 15
 
 Using the `loan` table, print the top 10 `account_id`s based on the sum of all of their loan amounts.

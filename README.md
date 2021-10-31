@@ -7,7 +7,7 @@
 
 ---
 
-**Day 5**
+**Day 1**
 
 
       ⏰  
@@ -17,35 +17,43 @@
   <tr>
    <td>9:00 -
 <p>
-09:25
+09:20
    </td>
-   <td>09:25:
+   <td>09:20:
 <p>
-10:15
+09:40
    </td>
-   <td>10:15 - 10:25
+   <td>09:40 - 10:15
    </td>
-   <td>10:25- 11:30
+   <td>10:15- 10:25
    </td>
-   <td>11:30 - 11:40
+   <td>10:25 - 11:40
    </td>
-   <td>11:40 - 13:00
+   <td>11:40 - 11:55
    </td>
-   <td>14:00 - 18:00
+   <td>11:55 - 12:50
+   </td>
+   <td>12:50 - 14:10
+   </td>
+   <td>14:10 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm up/ Kahoot*
+   <td>Warm up
    </td>
-   <td>Pandas
+   <td>Q&A
    </td>
-   <td>Break
-   </td>
-   <td>Weekly Recap
+   <td>Relational Databases
    </td>
    <td>Break
    </td>
-   <td>Weekly Retro
+   <td>SQL
+   </td>
+   <td>Break
+   </td>
+   <td>SQL
+   </td>
+   <td>Lunch Break
    </td>
    <td>Lab
    </td>
@@ -58,6 +66,134 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 3</strong>
+<p>
+<strong>Week 3 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Relational Databases
+
+<li>SQL Queries
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1qac6LM0Jd_S-nWrt_YQb06t1M7r4yMhG/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Relational Databases</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Activities/Activities.md">[Activity ERD]</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (optional) Sql Join multiple tables</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Temporary Table/ Views</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Connect Python into MySQL</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">[Notebook]</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">Connect Python into MySQL</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
+<p>
+<br>
+<p>
+[Activity] Tableau 
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1FDhOzlnqOdpzzwDvlCj3WA445A-m5vo0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1BCxSGxOgZ4NihLul36NUf5ZDJUhtJLv8/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+<p>
+<br>
+<p>
+[Demo] No-SQL Databases MongoDB
+<p>
+<br>
+<p>
+Weekly Recap
+<p>
+<br>
+<p>
+Weekly Retro
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">LAB] Tableau</a>
+   </td>
+  </tr>
+</table>
+
 
 <details>
 
@@ -462,12 +598,6 @@ Weekly Retro
 </details>
 
 ---
-
-<details>
-
-<summary>📅  &nbsp;Week 3 Databases, BI</summary>
-
-</details>
 
 <details>
 

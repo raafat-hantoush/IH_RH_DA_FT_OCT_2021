@@ -7,7 +7,7 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 
       ⏰  
@@ -21,13 +21,13 @@
    </td>
    <td>09:20:
 <p>
-09:40
+09:50
    </td>
-   <td>09:40 - 10:15
+   <td>09:50 - 10:10
    </td>
-   <td>10:15- 10:25
+   <td>10:10- 10:20
    </td>
-   <td>10:25 - 11:40
+   <td>10:20 - 11:40
    </td>
    <td>11:40 - 11:55
    </td>
@@ -43,15 +43,15 @@
    </td>
    <td>Q&A
    </td>
-   <td>Relational Databases
+   <td>ERD
    </td>
    <td>Break
    </td>
-   <td>SQL
+   <td>Activity, Joins
    </td>
    <td>Break
    </td>
-   <td>SQL
+   <td>Joins, Group By 
    </td>
    <td>Lunch Break
    </td>
@@ -72,12 +72,22 @@
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
 <p>
+<strong>Week 3 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>ERDs
+
+<li>Joins
+
+<p>
 <strong>Week 3 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
 <li>Relational Databases
 
 <li>SQL Queries
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -107,21 +117,21 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+   <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Activities/Activities.md">[Activity ERD]</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Activities/Activities.md">[Activity ERD]</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (optional) Sql Join multiple tables</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (optional) Sql Join multiple tables</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>

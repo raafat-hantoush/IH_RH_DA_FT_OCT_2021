@@ -31,4 +31,7 @@ SELECT  "world" , "_Hello" AS ‘concat’ FROM bank.loan;
 SELECT *,LTRIM(A3) FROM bank.district;
 
 
-select substring(A3,9,10) AS formatted_A3 from bank.district
+select substring(A3,9,10) AS formatted_A3 from bank.district;
+
+
+select loan_id,max(payments) as max_p from loan group by loan_id order by max_p desc limit 1

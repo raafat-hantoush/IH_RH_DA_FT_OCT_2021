@@ -7,10 +7,9 @@
 
 ---
 
-**Day 2**
+**Day 3**
 
-
-      ⏰  
+⏰  
 
 
 <table>
@@ -21,21 +20,21 @@
    </td>
    <td>09:20:
 <p>
-09:50
+09:40
    </td>
-   <td>09:50 - 10:10
+   <td>09:40 - 10:15
    </td>
-   <td>10:10- 10:20
+   <td>10:15- 10:25
    </td>
-   <td>10:20 - 11:40
+   <td>10:25 - 11:45
    </td>
-   <td>11:40 - 11:55
+   <td>11:45 - 11:55
    </td>
-   <td>11:55 - 12:50
+   <td>11:55 - 12:45
    </td>
-   <td>12:50 - 14:10
+   <td>12:45 - 14:00
    </td>
-   <td>14:10 - 18:00
+   <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
@@ -43,15 +42,15 @@
    </td>
    <td>Q&A
    </td>
-   <td>ERD
+   <td>Subqueries
    </td>
    <td>Break
    </td>
-   <td>Activity, Joins
+   <td>Temporary table/ views
    </td>
    <td>Break
    </td>
-   <td>Joins, Group By 
+   <td>Connect Python to Mysql
    </td>
    <td>Lunch Break
    </td>
@@ -72,6 +71,18 @@
   <tr>
    <td colspan="5" ><strong>Week 3</strong>
 <p>
+<strong>Week 3 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Subqueries
+
+<li>Temporary Table
+
+<li>Views
+
+<li>Connect Python to MySql
+
+<p>
 <strong>Week 3 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
@@ -86,6 +97,8 @@
 <li>Relational Databases
 
 <li>SQL Queries
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -133,31 +146,23 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (optional) Sql Join multiple tables</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1Rh_4g8OCT8B-_ZVzrS_nlN4WMfmFlAmJ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">SQL Sub Queries</a>
+   <td><a href="https://docs.google.com/presentation/d/1Xf2jYhZbkTzbKsEB-cfMcU1hNNsFD32E/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] SQL Sub Queries</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/16IYDrBewqSgTRXAbw8__pIvZw_xi3luu/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Temporary Table/ Views</a>
+<a href="https://docs.google.com/presentation/d/1XtSNJEuemapwNXiiCxEN19kP3zqLaYq3/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Temporary Table/ Views</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/124rx5J1ezIVUa3WQW7JZXuC9hh-L92EV/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Connect Python into MySQL</a>
+<a href="https://docs.google.com/presentation/d/1XbYZk3kIKlh_NraaK__FIHHDfExYvihF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Connect Python into MySQL</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">[Notebook]</a>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Notebook_Connecting_Python_To_Sql.ipynb">Connect Python into MySQL</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Notebook_Connecting_Python_To_Sql.ipynb">[Notebook] Connect Python into MySQL</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/SQL_MySQL/Labs/Lab_SQL_Subqueries.md">[Lab] Lab | SQL Sub Queries</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/13mSW3I67S5J49XsDRVC1YJ_wPjqku1Vn/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Tableau </a>
 <p>

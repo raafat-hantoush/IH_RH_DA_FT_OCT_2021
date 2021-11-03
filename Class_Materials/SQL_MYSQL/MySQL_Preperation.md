@@ -11,3 +11,9 @@ By: Florian Titze
     Use the mysql_dump.sql file you find on #data-general on Slack to import 
     (in MySQL workbench via Sever -> Data Import -> Import from Dump Project Folder.... select the folder in which the dump file is in, -> Start Import)
  + After every import of databases, you need to press the tiny refresh button in the SCHEMAS field.
+
+
+
+Note: to check if the mysql works properly from the command line, you can run the following command 
+mysql -u root -p 
+which  will ask you to enter the password of your database user (in this example, it is the "root" user) 

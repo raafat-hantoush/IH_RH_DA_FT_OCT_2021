@@ -16,4 +16,4 @@ Using Super store Data set [Data](https://github.com/raafat-hantoush/IH_RH_DA_FT
 - (optional): show the return rate(orders returned) by sub-category by region
 - (optional): any chart/s that you may think that can show very important insight/pattern about the business performance. 
 
-The dashboard should have clean and well readable design. All charts have titles, labels etc. the dashboard should be tested on a desktop layout. You may decide to split the dashboard into two dashabords ( Executive, Operational(orders, customers, etc)) if it is needed.
+The dashboard should have clean and well readable design. All charts have titles, labels etc. the dashboard should be tested on a desktop layout. You may decide to split the dashboard into two dashabords ( Executive, Operational(orders, customers, etc) if it is needed.

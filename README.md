@@ -236,7 +236,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
 <p>
 <br>
 <p>

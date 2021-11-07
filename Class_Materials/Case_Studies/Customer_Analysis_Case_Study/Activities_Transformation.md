@@ -45,5 +45,6 @@ Here are some of the tasks you need to perform:
 - Drop one of the two features that show a high correlation between them (greater than 0.9). Write code for both the correlation matrix and for seaborn heatmap. If there is no pair of features that have a high correlation, then do not drop any features
 
 ### Activity 6
+- X-y split.
 - Normalize (numerical).
 - One Hot/Label Encoding (categorical).

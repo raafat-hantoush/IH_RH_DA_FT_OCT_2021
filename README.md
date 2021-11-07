@@ -180,15 +180,15 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
-<p>
-<br>
-<p>
 Weekly Recap
 <p>
 <br>
 <p>
 Weekly Retro
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>

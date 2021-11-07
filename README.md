@@ -7,7 +7,7 @@
 
 ---
 
-**Day 5**
+**Day 1**
 
 ⏰  
 
@@ -20,23 +20,25 @@
    </td>
    <td>09:25:
 <p>
-09:45
+09:40
    </td>
    <td>09:45 - 10:15
    </td>
    <td>10:15- 10:25
    </td>
-   <td>10:25 - 11:45
+   <td>10:25 - 11:25
    </td>
-   <td>11:45 - 11:55
+   <td>11:25 - 11:30
    </td>
-   <td>11:55 - 13:00
+   <td>11:30 - 12:30
    </td>
-   <td>13:00 - 14:00
+   <td>12:30 - 12:40
    </td>
-   <td>14:00 - 15:15
+   <td>12:40 - 13:15
    </td>
-   <td>15:15 - 18:00
+   <td>13:15 - 14:30
+   </td>
+   <td>14:30
    </td>
   </tr>
   <tr>
@@ -44,19 +46,21 @@
    </td>
    <td>Q&A
    </td>
-   <td>Tableau
+   <td>Intro to Machine Learning
    </td>
    <td>Break
    </td>
-   <td>Tableau, Storytelling
+   <td>Distributions/Transformations
    </td>
    <td>Break
    </td>
-   <td>Weekly Recap / Mongo
+   <td>Guest
+   </td>
+   <td>Break
+   </td>
+   <td>Data Transformations
    </td>
    <td>Lunch Break
-   </td>
-   <td>Weekly Retro
    </td>
    <td>Lab
    </td>
@@ -69,6 +73,130 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Machine Learning Intro.
+
+<li>Distributions.
+
+<li>Data Transformation.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Intro to Machine Learning</a>
+<p>
+<br>
+<p>
+Guest Speaker, CTO
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability Distributions</a> 
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Processing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Fitting and Evaluating</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Improving Model Accuracy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Model Evaluation and Improving</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sampling Distributions </a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Model Evaluation and Improving</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] </a>
+<p>
+<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Two Sample T-Test</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PyWNCTe2ngp0DAtiaTj_jzYjzWOOgg7-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Chi</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples.ipynb">[Notebook] Hypothesis Two Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<p>
+<br>
+<p>
+Weekly Recap
+<p>
+<br>
+<p>
+Weekly Retro
+   </td>
+  </tr>
+</table>
+
+
+<details>
+
+<summary>📅  &nbsp; Week 3 - Databases, Tableau </summary>
 
 
 <table>
@@ -246,9 +374,11 @@ Weekly Retro
 </table>
 
 
+</details>
+
 <details>
 
-<summary>📅  &nbsp;Week2 - Exploratory Data Analysis </summary>
+<summary>📅  &nbsp;Week 2 - Exploratory Data Analysis </summary>
 
 
 <table>
@@ -430,7 +560,7 @@ Weekly Retro
 
 <details>
 
-<summary>📅  &nbsp;Week1 - Python Fundamentals </summary>
+<summary>📅  &nbsp;Week 1 - Python Fundamentals </summary>
 
 
 <table>
@@ -649,12 +779,6 @@ Weekly Retro
 </details>
 
 ---
-
-<details>
-
-<summary> 📅  &nbsp;Week 4 Statistics, Regression</summary>
-
-</details>
 
 <details>
 

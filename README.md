@@ -7,46 +7,34 @@
 
 ---
 
-**Day 2**
-
-⏰  
+**Day 3**
 
 
 <table>
   <tr>
-   <td>9:00 -
+   <td>10:10 :
 <p>
-09:25
+10:55
    </td>
-   <td>09:25:
+   <td>11:05:
 <p>
-09:45
+12:20
    </td>
-   <td>09:45 - 10:15
+   <td>12:20 - 12:30
    </td>
-   <td>10:15- 10:25
+   <td>12:30- 13:15
    </td>
-   <td>10:25 - 11:25
+   <td>13:15 - 14:15
    </td>
-   <td>11:25 - 11:30
+   <td>14:15 - 14:45
    </td>
-   <td>11:30 - 12:50
-   </td>
-   <td>12:50 - 14:00
-   </td>
-   <td>14:00 - 18:00
+   <td>14:45 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm up
+   <td>Guest
    </td>
-   <td>Q&A
-   </td>
-   <td>Linear Regression
-   </td>
-   <td>Break
-   </td>
-   <td>Linear Regression
+   <td>Lecture
    </td>
    <td>Break
    </td>
@@ -54,7 +42,9 @@
    </td>
    <td>Lunch Break
    </td>
-   <td>Lab Work
+   <td>Lecture
+   </td>
+   <td>Lab
    </td>
   </tr>
 </table>
@@ -70,6 +60,16 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Data Engineering
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
 <p>
 <strong>Week 4 | Day 2 `s Learning Objectives:</strong>
 <ul>
@@ -87,6 +87,8 @@
 <li>Distributions.
 
 <li>Data Transformation.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -142,7 +144,11 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
 <p>

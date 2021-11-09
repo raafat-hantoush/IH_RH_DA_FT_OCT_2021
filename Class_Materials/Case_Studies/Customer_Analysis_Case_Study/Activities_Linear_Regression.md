@@ -49,12 +49,12 @@ Here are some of the tasks you need to perform:
 - Normalize (numerical).
 - One Hot/Label Encoding (categorical).
 
-### Activity 7 --- Done
-# Linear Regression
+### Activity 7 
+#### Linear Regression
 - Train-test split.
 - Apply linear regression.
 - Model Interpretation.
-# Model Validation
+#### Model Validation
 Description:
 - MSE.
 - RMSE.

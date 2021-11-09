@@ -7,7 +7,7 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 ⏰  
 
@@ -20,7 +20,7 @@
    </td>
    <td>09:25:
 <p>
-09:40
+09:45
    </td>
    <td>09:45 - 10:15
    </td>
@@ -30,15 +30,11 @@
    </td>
    <td>11:25 - 11:30
    </td>
-   <td>11:30 - 12:30
+   <td>11:30 - 12:50
    </td>
-   <td>12:30 - 12:40
+   <td>12:50 - 14:00
    </td>
-   <td>12:40 - 13:15
-   </td>
-   <td>13:15 - 14:30
-   </td>
-   <td>14:30
+   <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
@@ -46,23 +42,19 @@
    </td>
    <td>Q&A
    </td>
-   <td>Intro to Machine Learning
+   <td>Linear Regression
    </td>
    <td>Break
    </td>
-   <td>Distributions/Transformations
+   <td>Linear Regression
    </td>
    <td>Break
    </td>
-   <td>Guest
-   </td>
-   <td>Break
-   </td>
-   <td>Data Transformations
+   <td>Lecture
    </td>
    <td>Lunch Break
    </td>
-   <td>Lab
+   <td>Lab Work
    </td>
   </tr>
 </table>
@@ -79,6 +71,14 @@
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
 <p>
+<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
+<p>
 <strong>Week 4 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -87,6 +87,8 @@
 <li>Distributions.
 
 <li>Data Transformation.
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -104,9 +106,7 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Intro to Machine Learning</a>
+   <td><a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
 <p>
 <br>
 <p>
@@ -114,15 +114,11 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Probability Distributions</a> 
+<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Processing</a>
+<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
 <p>
 <br>
 <p>
@@ -132,19 +128,23 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Lab | Model Fitting and Evaluating</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Improving Model Accuracy</a>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
+   </td>
+   <td>[Guest Speaker] Data Engineering, Xing
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Model Evaluation and Improving</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Sampling Distributions </a>
+   <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
 <p>
 <br>
 <p>
@@ -166,9 +166,7 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] </a>
-<p>
-<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Two Sample T-Test</a>
+<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
 <p>
 <br>
 <p>

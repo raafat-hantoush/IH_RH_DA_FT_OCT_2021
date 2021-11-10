@@ -55,8 +55,10 @@ Here are some of the tasks you need to perform:
 - Apply linear regression.
 - Model Interpretation.
 #### Model Validation
-Description:
-- MSE.
-- RMSE.
-- MAE.
-- R2.
+- Model Evaluation:
+  - MSE.
+  - RMSE.
+  - MAE.
+  - R2.
+  - Adjusted R2.
+- Feature Importance.

@@ -60,5 +60,5 @@ Model Evaluation:
 - RMSE.
 - MAE.
 - R2.
-- Adjusted R2
+- Adjusted R2.
 Feature Importance.

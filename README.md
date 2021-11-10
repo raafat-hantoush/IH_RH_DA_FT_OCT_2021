@@ -7,32 +7,38 @@
 
 ---
 
-**Day 3**
+**Day 4**
 
 
 <table>
   <tr>
-   <td>10:10 :
+   <td>09:00 -
 <p>
-10:55
+09:25
    </td>
-   <td>11:05:
+   <td>09:25 -
 <p>
-12:20
+10:15
    </td>
-   <td>12:20 - 12:30
+   <td>10:15 - 10:25
    </td>
-   <td>12:30- 13:15
+   <td>10:25- 11:40
    </td>
-   <td>13:15 - 14:15
+   <td>11:40 - 11:50
    </td>
-   <td>14:15 - 14:45
+   <td>11:50 - 12:50
    </td>
-   <td>14:45 - 18:00
+   <td>12:50 - 14:00
+   </td>
+   <td>14:00 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Guest
+   <td>Warm Up
+   </td>
+   <td>Q& A Lecture
+   </td>
+   <td>Break
    </td>
    <td>Lecture
    </td>
@@ -41,8 +47,6 @@
    <td>Lecture
    </td>
    <td>Lunch Break
-   </td>
-   <td>Lecture
    </td>
    <td>Lab
    </td>
@@ -60,6 +64,14 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Hypothesis Testing
+
+<li>Model Validation
+
 <p>
 <strong>Week 4 | Day 3 `s Learning Objectives:</strong>
 <ul>
@@ -87,6 +99,8 @@
 <li>Distributions.
 
 <li>Data Transformation.
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -158,15 +172,15 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Activities.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
    <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
 <p>

@@ -9,3 +9,4 @@
 - https://blog.minitab.com/en/adventures-in-statistics-2/multiple-regession-analysis-use-adjusted-r-squared-and-predicted-r-squared-to-include-the-correct-number-of-variables
 - https://www.random.org/randomness/
 - https://www.analyticsvidhya.com/blog/2020/06/statistics-analytics-hypothesis-testing-z-test-t-test/
+- https://yuppal.people.ysu.edu/econ_3790/t-table.pdf

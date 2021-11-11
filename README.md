@@ -7,7 +7,7 @@
 
 ---
 
-**Day 4**
+**Day 5**
 
 
 <table>
@@ -22,27 +22,27 @@
    </td>
    <td>10:15 - 10:25
    </td>
-   <td>10:25- 11:40
+   <td>10:25- 11:15
    </td>
-   <td>11:40 - 11:50
+   <td>11:20 - 12:20
    </td>
-   <td>11:50 - 12:50
+   <td>12:30 - 13:15
    </td>
-   <td>12:50 - 14:00
+   <td>13:15 - 14:15
    </td>
-   <td>14:00 - 18:00
+   <td>14:15 - 18:00
    </td>
   </tr>
   <tr>
-   <td>Warm Up
+   <td>Kahoot
    </td>
-   <td>Q& A Lecture
+   <td>Lecture
    </td>
    <td>Break
    </td>
    <td>Lecture
    </td>
-   <td>Break
+   <td>Weekly Retro
    </td>
    <td>Lecture
    </td>
@@ -64,6 +64,14 @@
 <table>
   <tr>
    <td colspan="5" ><strong>Week 4</strong>
+<p>
+<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Hypothesis Testing - Two Sample Test
+
+<li>Recap
+
 <p>
 <strong>Week 4 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -107,6 +115,8 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -119,6 +129,8 @@
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
@@ -182,7 +194,7 @@ Guest Speaker, CTO
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+   <td><a href="https://kahoot.it/">Kahoot</a>
 <p>
 <br>
 <p>
@@ -190,15 +202,11 @@ Guest Speaker, CTO
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1PyWNCTe2ngp0DAtiaTj_jzYjzWOOgg7-/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Chi</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples.ipynb">[Notebook] Hypothesis Two Sample Test</a>
-<p>
-<br>
-<p>
-Weekly Recap
+<a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
 <p>
 <br>
 <p>
@@ -206,7 +214,11 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>
@@ -293,6 +305,8 @@ Weekly Retro
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>

@@ -43,6 +43,7 @@ If you couldn't finish the first lab, use this time to go back there.
 
 Chances are that more issues will appear, and that not all of them will be solved during this session. But what's important is that the issues have been identified.
 
+# Optional
 #### Expand the project
 
 If you're done, you can try to expand the project on your own. Here are a few suggestions:

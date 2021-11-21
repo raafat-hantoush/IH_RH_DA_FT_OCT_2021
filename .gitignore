@@ -132,3 +132,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Class_Materials/Web_Scraping/config.py
+Class_Materials/Machine_Learning/Unsupervised_Learning/Model/.DS_Store

@@ -63,7 +63,7 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 6</strong>
+   <td colspan="5" ><strong><h1>Week 6</h1></strong>
 <p>
 <strong>Week 6 | Day 1 `s Learning Objectives:</strong>
 <ul>

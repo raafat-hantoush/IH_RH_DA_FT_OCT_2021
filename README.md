@@ -100,9 +100,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1K-zv_XGKE7Wrx6iibn-24ycNYYTLHBml/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Web Scraping</a>
+<a href="https://docs.google.com/presentation/d/1K-zv_XGKE7Wrx6iibn-24ycNYYTLHBml/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a> <a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Web Scraping</a>
 <p>
 <br>
 <p>

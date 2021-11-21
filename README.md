@@ -7,7 +7,7 @@
 
 ---
 
-**Day 5**
+**Day 1**
 
 
 <table>
@@ -22,19 +22,19 @@
    </td>
    <td>10:15 - 10:25
    </td>
-   <td>10:25- 11:15
+   <td>10:25- 11:25
    </td>
-   <td>11:20 - 12:20
+   <td>11:25 - 11:35
    </td>
-   <td>12:30 - 13:15
+   <td>11:35 - 12:50
    </td>
-   <td>13:15 - 14:15
+   <td>12:50 - 14:00
    </td>
-   <td>14:15 - 18:00
+   <td>14:00- 18:00
    </td>
   </tr>
   <tr>
-   <td>Kahoot
+   <td>Warm up
    </td>
    <td>Lecture
    </td>
@@ -42,7 +42,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Weekly Retro
+   <td>Break
    </td>
    <td>Lecture
    </td>
@@ -59,6 +59,181 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 6</strong>
+<p>
+<strong>Week 6 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Git ignore
+
+<li>Web Scraping
+
+<li>HTML, CSS
+
+<li>Beautiful Soap
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study]</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">Gnod Song Recommender</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1K-zv_XGKE7Wrx6iibn-24ycNYYTLHBml/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+<p>
+<a href="https://docs.google.com/presentation/d/1lUlUgGMvrk24IBBg9zVSr6bQsjGYs0wm/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Web Scraping</a>
+<p>
+<br>
+<p>
+<a href="https://flukeout.github.io/">[Activity] CSS Selector</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping_Structure.ipynb">[Notebook] Web Scraping Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Project Roadmap</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
+   </td>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+<p>
+<br>
+<p>
+[Code Along] Python Modules with VS Code
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lca6NwMuo6h05Xo64WjktE586vpfWZNI/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lvdjdQ6anVkHGxaxq5Xzszt5syrp83w4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] K-Means with Scikit-Learn</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/16EbJCtu_3H8-cx_Nq0PbY7fCzcPZ0agA/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
+<p>
+<br>
+<p>
+[Weekly Retro]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+   </td>
+  </tr>
+</table>
+
+
+<details>
+
+<summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 5</strong>
+<p>
+<strong>Mid-Term Project</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>Submitting project plans
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+  </tr>
+  <tr>
+   <td>Work on the project
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Presentations
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 4 - Regression </summary>
 
 
 <table>
@@ -223,6 +398,8 @@ Weekly Retro
   </tr>
 </table>
 
+
+</details>
 
 <details>
 
@@ -811,18 +988,6 @@ Weekly Retro
 </details>
 
 ---
-
-<details>
-
-<summary> 📅  &nbsp;Week 5 - Midterm Project</summary>
-
-</details>
-
-<details>
-
-<summary> 📅  &nbsp;Week 6 - Web Scraping, Unsupervised Learning </summary>
-
-</details>
 
 <details>
 

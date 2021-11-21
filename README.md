@@ -108,7 +108,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping_Structure.ipynb">[Notebook] Web Scraping Code Along</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
 <p>
 <br>
 <p>

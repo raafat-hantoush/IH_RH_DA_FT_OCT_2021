@@ -7,7 +7,7 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 
 <table>
@@ -65,6 +65,14 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 6</h1></strong>
 <p>
+<strong>Week 6 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Web Scraping multiple pages
+
+<li>Python modules
+
+<p>
 <strong>Week 6 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -75,6 +83,8 @@
 <li>HTML, CSS
 
 <li>Beautiful Soap
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -94,9 +104,9 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study]</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study]</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">Gnod Song Recommender</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">Gnod Song Recommender</a>
 <p>
 <br>
 <p>
@@ -118,7 +128,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
 <p>
 <br>
 <p>

@@ -7,7 +7,7 @@
 
 ---
 
-**Day 2**
+**Day 3**
 
 
 <table>
@@ -65,6 +65,18 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 6</h1></strong>
 <p>
+<strong>Week 6 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>APIs.
+
+<li>Spotify API.
+
+<li>JSON format overview.
+
+<li>Restful APIs
+
+<p>
 <strong>Week 6 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
@@ -83,6 +95,8 @@
 <li>HTML, CSS
 
 <li>Beautiful Soap
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -144,15 +158,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
 <p>

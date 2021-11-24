@@ -7,7 +7,7 @@
 
 ---
 
-**Day 3**
+**Day 4**
 
 
 <table>
@@ -65,6 +65,16 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 6</h1></strong>
 <p>
+<strong>Week 6 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Unsupervised Learning
+
+<li>K-means Algorithm
+
+<li>Saving/Loading Model using Pickle
+
+<p>
 <strong>Week 6 | Day 3 `s Learning Objectives:</strong>
 <ul>
 
@@ -95,6 +105,8 @@
 <li>HTML, CSS
 
 <li>Beautiful Soap
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -176,7 +188,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
 <p>
 <br>
 <p>

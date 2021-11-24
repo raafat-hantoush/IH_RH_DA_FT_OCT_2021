@@ -192,7 +192,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/16EbJCtu_3H8-cx_Nq0PbY7fCzcPZ0agA/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
+<a href="https://docs.google.com/presentation/d/1lx_Xt2qdD4ZRczJ8HMQdfoMBjMGBOXWl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1mWytiwOq3no4VY1l2NOyp_aDeeznXwbP/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
 <p>

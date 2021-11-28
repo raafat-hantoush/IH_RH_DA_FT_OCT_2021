@@ -3,7 +3,7 @@
 # Lab | Comparing regression models
 
 
-For this lab, we will be using the same dataset for the [customer analysis case study](https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Pandas/Labs/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md) we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
+For this lab, we will be using the same dataset for the [customer analysis case study](https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md) we used in the previous labs. We recommend using the same notebook since you will be reusing the same variables you previous created and used in labs. 
 
 ### Instructions
 

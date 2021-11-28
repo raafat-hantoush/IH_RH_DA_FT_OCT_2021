@@ -7,7 +7,7 @@
 
 ---
 
-**Day 4**
+**Day 1**
 
 
 <table>
@@ -59,6 +59,140 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong><h1>Week 7</h1></strong>
+<p>
+<strong>Week 7 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Feature Selection
+
+<li>PCA
+
+<li>KNN
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] PCA</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1e1kUeclxo7OUaRBc0-rZsSdKIrbd_Yjc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Evaluating Classification Models</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression, Imbalance Sets</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Decision Trees</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<p>
+<br>
+<p>
+No Free Lunch Theorem
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1se2v9JnXsqbmaOmux9N_oG0dFPDjcpOB/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Weekly Recap</a>
+<p>
+<br>
+<p>
+Kahoot*
+<p>
+<br>
+<p>
+[Weekly Retro]
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
+   </td>
+  </tr>
+</table>
+
+
+<details>
+
+<summary>📅  &nbsp; Week 6 - Mid Term Project </summary>
 
 
 <table>
@@ -207,6 +341,8 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
+
+</details>
 
 <details>
 
@@ -1020,12 +1156,6 @@ Weekly Retro
 </details>
 
 ---
-
-<details>
-
-<summary> 📅  &nbsp;Week 7 - Machine Learning</summary>
-
-</details>
 
 <details>
 

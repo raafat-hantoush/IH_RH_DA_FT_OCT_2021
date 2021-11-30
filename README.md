@@ -7,7 +7,7 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 
 <table>
@@ -65,14 +65,26 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 7</h1></strong>
 <p>
+<strong>Week 7 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>PCA
+
+<li>Bias and Variance Trade off
+
+<li>Logistic regression 
+
+<li>Evaluating Classification models
+
+<p>
 <strong>Week 7 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
 <li>Feature Selection
 
-<li>PCA
-
 <li>KNN
+</li>
+</ul>
 </li>
 </ul>
    </td>
@@ -94,10 +106,6 @@
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
-<p>
-<br>
-<p>
 <a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
 <p>
 <br>
@@ -114,17 +122,17 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] PCA</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
+   <td><a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
 <p>
 <br>
 <p>
@@ -136,13 +144,15 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Statistics_PCA.ipynb">[Notebook] PCA</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression, Imbalance Sets</a>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
 <p>
@@ -153,6 +163,10 @@
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>

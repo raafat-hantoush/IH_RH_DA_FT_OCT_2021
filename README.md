@@ -70,8 +70,6 @@
 
 <li>PCA
 
-<li>Bias and Variance Trade off
-
 <li>Logistic regression 
 
 <li>Evaluating Classification models
@@ -123,10 +121,6 @@
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] PCA</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1sbkM5fg-NJmwdkpV-bpLL0sExIWFn0Zz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] PCA</a>
 <p>
@@ -149,6 +143,10 @@
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Lab/Lab_PCA_Example.ipynb">[LAB] (Optional) PCA</a>
 <p>
 <br>
 <p>

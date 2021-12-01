@@ -7,8 +7,6 @@
 
 ---
 
-**Day 2**
-
 
 <table>
   <tr>
@@ -65,6 +63,12 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 7</h1></strong>
 <p>
+<strong>Week 7 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Decision Trees
+
+<p>
 <strong>Week 7 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
@@ -81,6 +85,8 @@
 <li>Feature Selection
 
 <li>KNN
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -164,23 +170,27 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
+<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+   <td>No Free Lunch Theorem
 <p>
 <br>
 <p>
-No Free Lunch Theorem
+<a href="https://docs.google.com/presentation/d/1drkfcuXT4s2da_okWlNQKLBFnEb2FYwD/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Ensemble Methods</a>
 <p>
 <br>
 <p>

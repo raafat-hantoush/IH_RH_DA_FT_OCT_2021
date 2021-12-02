@@ -7,6 +7,8 @@
 
 ---
 
+**Day 5**
+
 
 <table>
   <tr>
@@ -63,6 +65,16 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 7</h1></strong>
 <p>
+<strong>Week 7 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Random Forest
+
+<li>ML Frequent Problems
+
+<li>Recap
+
+<p>
 <strong>Week 7 | Day 4 `s Learning Objectives:</strong>
 <ul>
 
@@ -70,7 +82,7 @@
 
 <li>Handling Imbalanced Data
 
-<li>ML Frequent Problems 
+<li>Bias and Variance Tradeoff
 
 <p>
 <strong>Week 7 | Day 3 `s Learning Objectives:</strong>
@@ -95,6 +107,8 @@
 <li>Feature Selection
 
 <li>KNN
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -144,10 +158,6 @@
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
-<p>
-<br>
-<p>
 <a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
 <p>
 <br>
@@ -184,17 +194,21 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://docs.google.com/presentation/d/1eQe1GllJzTzLWBNQrCm9MkSG10gDGy9h/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Bias & Variance</a>
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Cross_Validation.ipynb">[Notebook] Cross Validation</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
 <p>
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
-   <td>No Free Lunch Theorem
+   <td><a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
 <p>
 <br>
 <p>
@@ -214,7 +228,7 @@ Kahoot*
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
    </td>
   </tr>
 </table>

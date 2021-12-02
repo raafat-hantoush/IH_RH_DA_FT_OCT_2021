@@ -63,6 +63,16 @@
   <tr>
    <td colspan="5" ><strong><h1>Week 7</h1></strong>
 <p>
+<strong>Week 7 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Cross Validation
+
+<li>Handling Imbalanced Data
+
+<li>ML Frequent Problems 
+
+<p>
 <strong>Week 7 | Day 3 `s Learning Objectives:</strong>
 <ul>
 
@@ -85,6 +95,8 @@
 <li>Feature Selection
 
 <li>KNN
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -172,7 +184,7 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Data_PreProcessing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
 <p>
 <br>
 <p>
@@ -180,7 +192,7 @@
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
    <td>No Free Lunch Theorem
 <p>

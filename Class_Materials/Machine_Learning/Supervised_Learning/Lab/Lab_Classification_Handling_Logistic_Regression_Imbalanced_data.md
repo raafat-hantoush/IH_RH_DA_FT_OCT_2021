@@ -30,6 +30,9 @@ Here is the list of steps to be followed (building a simple model without balanc
  -  apply K-fold cross validation on your models before and check the model score.
 **Note**: So far we have not balanced the data.
 
+ Round 4
+ - fit a Random forest Classifier on the data and compare the accuracy. 
+
 Managing imbalance in the dataset
 
 - Check for the imbalance.

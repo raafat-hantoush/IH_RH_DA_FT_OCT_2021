@@ -131,6 +131,8 @@
    <td><strong>Day 4</strong>
    </td>
    <td><strong>Day 5</strong>
+<p>
+It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>

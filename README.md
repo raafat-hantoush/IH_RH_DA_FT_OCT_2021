@@ -70,6 +70,8 @@
 
 <li>Random Forest
 
+<li>Hyper Parameter Tuning
+
 <li>ML Frequent Problems
 
 <li>Recap
@@ -208,7 +210,11 @@
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
+   <td>Kahoot
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1eRhl75IclQ4W989nRPgNYMDIzXgx9pCx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] ML Frequent Problems</a>
 <p>
 <br>
 <p>
@@ -220,7 +226,11 @@
 <p>
 <br>
 <p>
-Kahoot*
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest.ipynb">[Notebook] Random Forest</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
 <p>
 <br>
 <p>

@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Logisitc Regression, Handling Imbalanced Data
+# Lab | Classification, Handling Imbalanced Data
 For this lab we will build a model on customer churn binary classification problem. You will be using `Data/DATA_Customer-Churn.csv` file.
 
 ### Scenario
@@ -32,6 +32,7 @@ Here is the list of steps to be followed (building a simple model without balanc
 
  Round 4
  - fit a Random forest Classifier on the data and compare the accuracy. 
+ - tune the hyper paramters with gridsearch and check the results.
 
 Managing imbalance in the dataset
 

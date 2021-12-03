@@ -240,7 +240,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Random Forest</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
    </td>
   </tr>
 </table>
@@ -248,7 +248,7 @@ It is Friday!! 🥳😎✌️
 
 <details>
 
-<summary>📅  &nbsp; Week 6 - Mid Term Project </summary>
+<summary>📅  &nbsp; Week 6 - Song Recommender Project</summary>
 
 
 <table>

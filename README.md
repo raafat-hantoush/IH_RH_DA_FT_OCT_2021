@@ -22,11 +22,11 @@
    </td>
    <td>10:15 - 10:25
    </td>
-   <td>10:25- 11:25
+   <td>10:25- 11:35
    </td>
-   <td>11:25 - 11:35
+   <td>11:35 - 11:45
    </td>
-   <td>11:35 - 12:00
+   <td>11:45 - 13:00
    </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@
    </td>
    <td>Break
    </td>
-   <td>Lecture
+   <td>Lecture*
    </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 
 <li>Final Project Presentation Example.
 
-<li>Object Oriented Programming.
+<li>Object Oriented Programming*.
 </li>
 </ul>
    </td>

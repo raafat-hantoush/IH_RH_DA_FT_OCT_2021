@@ -7,7 +7,7 @@
 
 ---
 
-**Day 5**
+**Day 1**
 
 
 <table>
@@ -26,11 +26,7 @@
    </td>
    <td>11:25 - 11:35
    </td>
-   <td>11:35 - 12:50
-   </td>
-   <td>12:50 - 14:00
-   </td>
-   <td>14:00- 18:00
+   <td>11:35 - 12:00
    </td>
   </tr>
   <tr>
@@ -46,10 +42,6 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lunch Break
-   </td>
-   <td>Lab
-   </td>
   </tr>
 </table>
 
@@ -59,6 +51,80 @@
 **👉 **&nbsp;** Table of Contents**
 
 ---
+
+
+<table>
+  <tr>
+   <td colspan="5" ><strong>Week 8</strong>
+<p>
+<strong>Week 8 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Agile, MVP.
+
+<li>Final Project Kickoff.
+
+<li>Final Project Presentation Example.
+
+<li>Object Oriented Programming.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Day 1</strong>
+   </td>
+   <td><strong>Day 2</strong>
+   </td>
+   <td><strong>Day 3</strong>
+   </td>
+   <td><strong>Day 4</strong>
+   </td>
+   <td><strong>Day 5</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<p>
+<br>
+<p>
+Object Oriented Programming*
+   </td>
+   <td>[Guest Speaker]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1-stHAzqBlIHBCQCQKlzifGXWlkAGgDFl/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Natural Language Processing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_OCT_2021/blob/main/Class_Materials/NLP/Notebook_Code_Along_NLP.ipynb">[Notebook] NLP</a>
+<p>
+<br>
+<p>
+<a href="https://drive.google.com/file/d/1070RNgMiWUVDCHwqUPEjc0FFI49tMcCx/view?usp=sharing">[Data] NLP Data</a>
+   </td>
+   <td>Final Project Elevator Pitches
+   </td>
+   <td>Daily Standup
+<p>
+<br>
+<p>
+Final Project Plan Submission
+   </td>
+   <td>Daily Standup
+   </td>
+  </tr>
+</table>
+
+
+<details>
+
+<summary>📅  &nbsp; Week 7 - Advanced ML Topics</summary>
 
 
 <table>
@@ -245,6 +311,8 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
+
+</details>
 
 <details>
 
@@ -1212,12 +1280,6 @@ Weekly Retro
 </details>
 
 ---
-
-<details>
-
-<summary> 📅  &nbsp;Week 8 Advanced ML Topics - Final Project  </summary>
-
-</details>
 
 <details>
 

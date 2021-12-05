@@ -17,7 +17,8 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 - Use Tableau or Python visual libraries(or any) at a profesional level to visualize insights and present your work
 - Select the algorithm, statistical methods or technical building blocks that could give the best results, most efficiently
 
-
+### Teams
+- Team of two people is recommended and it is the maximum number allowed.
 --- 
 
 ## Datasets

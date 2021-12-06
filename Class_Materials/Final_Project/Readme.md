@@ -23,7 +23,6 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 
 ## Datasets
 - General
-  - [Dataworld](https://data.world/)
   - [Kaggle Datasets](https://www.kaggle.com/datasets)
   - [Google dataset search](https://datasetsearch.research.google.com/)
   - [UCI machine learning repository](https://archive.ics.uci.edu/ml/index.php)

@@ -7,40 +7,24 @@
 
 ---
 
-**Day 1**
+**Day 2**
 
 
 <table>
   <tr>
-   <td>09:00 -
-<p>
-09:25
+   <td>09:00 - 10:00
    </td>
-   <td>09:25 -
-<p>
-10:15
+   <td>10:00 - 10:10
    </td>
-   <td>10:15 - 10:25
-   </td>
-   <td>10:25- 11:35
-   </td>
-   <td>11:35 - 11:45
-   </td>
-   <td>11:45 - 13:00
+   <td>10:10 - 11:30
    </td>
   </tr>
   <tr>
-   <td>Warm up
-   </td>
-   <td>Lecture
+   <td>Guest Speaker
    </td>
    <td>Break
    </td>
    <td>Lecture
-   </td>
-   <td>Break
-   </td>
-   <td>Lecture*
    </td>
   </tr>
 </table>
@@ -57,6 +41,14 @@
   <tr>
    <td colspan="5" ><strong>Week 8</strong>
 <p>
+<strong>Week 8 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>NLP
+
+<li>Text Analytics
+
+<p>
 <strong>Week 8 | Day 1 `s Learning Objectives:</strong>
 <ul>
 
@@ -67,6 +59,8 @@
 <li>Final Project Presentation Example.
 
 <li>Object Oriented Programming*.
+</li>
+</ul>
 </li>
 </ul>
    </td>
